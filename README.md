@@ -1,2 +1,2 @@
 # Seaya-do
-# Repository for studying js.
+# study Repositories 

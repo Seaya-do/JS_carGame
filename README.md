@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://github.com/Seaya-do?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+  <img src=https://github.com/Seaya-do?tab-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
 ## Nice to meet you! I'm studying to be a full stack and django developer!
